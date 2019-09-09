@@ -6,7 +6,6 @@ tags: [week1]
 comments: true
 ---
 ## This lightswitch is awesome.
-My pictures still aren't uploading so I guess I'll try again in the morning?
 ![Lightswitch](/img/lightswitch.jpg)
 
 The green light indicates that the motion sensors are activated and the light will turn on if it detects movement.
