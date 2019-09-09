@@ -6,8 +6,9 @@ tags: [week1]
 comments: true
 ---
 ## This window took me a few days to figure out how to open. That's too amny days.
-My pictures still aren't uploading so I guess I'll try again in the morning?
-# ![Window](https://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
+![Window](/img/locked.jpg)
+![Window](/img/unlocked.jpg)
+![Window](/img/open.jpg)
 
 When the handles on the side are down, the window is locked.
 HOWEVER, when I attempted to push them up, I could only get halfway before I encountered resistance.
