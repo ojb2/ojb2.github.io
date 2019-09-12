@@ -5,7 +5,7 @@ subtitle: Window
 tags: [week1]
 comments: true
 ---
-## This window took me a few days to figure out how to open. That's too amny days.
+## This window took me a few days to figure out how to open. That's too many days.
 ![Window](/img/unlocked.jpg)
 ![Window](/img/locked.jpg)
 ![Window](/img/open.jpg)
