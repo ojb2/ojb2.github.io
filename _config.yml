@@ -21,6 +21,7 @@ description: A record of my work in CSCI376
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
+  Individual Project Proposal: "ipp"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
