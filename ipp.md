@@ -2,7 +2,7 @@
 layout: page
 title: Individual Project Proposal
 ---
-# Design Problem and Motivation
+<center><h1>Design Problem and Motivation</h1></center>
   
 <center> People with poor fine motor control often have problems using touchscreen devices becuase of the precision required to touch the pad of your finger to the correct spot with little to no tactile feedback. Even stretching out a single finger to the screen can be an impossibility, let alone aiming at and making contact with the correct spot on the smooth screen. This was a consistent problem with one of the children I watched this summer. She's too young to be able to type out what she'd like to say using a keyboard, but the talking devices available to her all operated as apps on a tablet.  </center>
 ![Talker](/img/cs3671.png) ![Talker](/img/cs3672.jpg)
