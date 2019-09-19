@@ -11,8 +11,9 @@ title: Individual Project Proposal
 People with poor fine motor control often have problems using touchscreen devices because of the precision required to touch the pad of your finger to the correct spot with little to no tactile feedback. This was a consistent problem over the summer. Even pressing play on a paused Netflix show can be a frustrating ordeal. While Windows has released an eye-controlled tablet, the technology is still new and relatively inaccessible.  
 
 For this reason, I propose a device that provides the same services as a talker app, but runs on a device that makes use of more tactile controls such as buttons and switches. With controls modeled after those used by her wheelchair. While there is a screen with visual components, the main control is an easily accessed joystick, rotatable depending on the grip the user can most easily accomplish. There are also a few large raised buttons and a wheel that can be turned to control speed.</center>  
-
+![Joystick](/img/cs3673.jpg)
 ---
 Image Credits:
 - Apps for Communication from maximizeyourtouch.pbworks.com
 - QuickTalker Freestyle from ablenetc.com
+- Bodypoint U-Shaped Handle from https://permobilus.com
