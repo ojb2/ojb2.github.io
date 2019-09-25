@@ -91,9 +91,6 @@ share-links-active:
   facebook: true
   linkedin: true
 
-# Display the link to the project website in the footer
-url-pretty: "pelite376.github.io"
-
 # --- Web Statistics Section --- #
 
 # Fill in your Google Analytics gtag.js ID to track your website using gtag
