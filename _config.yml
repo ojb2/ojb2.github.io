@@ -91,9 +91,8 @@ share-links-active:
   facebook: true
   linkedin: true
 
-# How to display the link to the website in the footer
-# Remove this if you don't want a link in the footer
-url-pretty: "ojb2.github.io"  # eg. "deanattali.com/beautiful-jekyll"
+# Display the link to the project website in the footer
+url-pretty: "pelite376.github.io"
 
 # --- Web Statistics Section --- #
 
