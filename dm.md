@@ -4,7 +4,7 @@ title: Design Manifesto
 ---
 <center>
   <h1>However much time you think you'll need, triple it.</h1> 
-  Researching and designing an interface over the course of a single college semester is a hearty task. Doing so as I learned what methods I would be using as I went was challenging, to say the least. Balancing all of this with three other classes, a job, and a plethora of complicated personal issues had me pulling all-nighters at least once a week.
+  <p>&nbsp;</p>Researching and designing an interface over the course of a single college semester is a hearty task. Doing so as I learned what methods I would be using as I went was challenging, to say the least. Balancing all of this with three other classes, a job, and a plethora of complicated personal issues had me pulling all-nighters at least once a week.
   <p>&nbsp;</p>My problem, like most people's, wasn't that I didn't have enough time, but that I wasn't managing it properly. Specifically, there were five areas where my group found that we just didn't book enough time to complete our assignments to the best of our abilities
   <p>&nbsp;</p><h3>1. You won't always find what you're looking for while researching.</h3>  
   Our group knew we didn't want to do a contextual inquiry for our project, so we began researching comparable interview techniques that might be better suited to our needs. Unfortunately, the perfect answer isn't always found in the top link of the Google search.
