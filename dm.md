@@ -2,6 +2,28 @@
 layout: page
 title: Design Manifesto
 ---
-<center><h1>title</h1></center>  
----
-content
+<center>
+  <h1>However much time you think you'll need, triple it.</h1> 
+  Researching and designing an interface over the course of a single college semester is a hearty task. Doing so as I learned what methods I would be using as I went was challenging, to say the least. Balancing all of this with three other classes, a job, and a plethora of complicated personal issues had me pulling all-nighters at least once a week.
+  <p>&nbsp;</p>My problem, like most people's, wasn't that I didn't have enough time, but that I wasn't managing it properly. Specifically, there were five areas where my group found that we just didn't book enough time to complete our assignments to the best of our abilities
+  <p>&nbsp;</p><h3>1. You won't always find what you're looking for while researching.</h3>  
+  Our group knew we didn't want to do a contextual inquiry for our project, so we began researching comparable interview techniques that might be better suited to our needs. Unfortunately, the perfect answer isn't always found in the top link of the Google search.
+  <p>&nbsp;</p>We ended up doing a semi-structured interview, but it didn't feel quite as unbiased as a contextual inquiry because we were still asking questions about the things we wanted to know about rather than the things we needed to know about.
+  <p>&nbsp;</p>If we had budgeted more time towards researching alternatives, we might have been able to find a solution that worked well with our project, but still provided the level of flexibility I was looking for.
+  <p>&nbsp;</p><h3>2. It takes longer than you think to schedule an interview.</h3>
+  People are busy, especially on college campuses. Scheduling an interview is going to be difficult, especially if the interview will take longer than half an hour. Finding an interviewee is going to be even more difficult if it's done at the last minute
+  <p>&nbsp;</p>For us, finding people to interview was challenging, partially because the nature of our project only allowed us to interview a small portion of the student body, and partially because we only gave ourselves a few days to find someone.
+  <p>&nbsp;</p>When scheduling interviews, it will always take more time than you think you need, because you have to bring in people from outside the project. They're doing you a favour here, so you have to work around their schedules. This means it will take time to find people who not only have time to make for you, but whose schedules also match yours.
+  <p>&nbsp;</p><h3>3. Nothing you think is obvious actually is.</h3>
+  Interviews may be difficult, but they're only the first step on a road of poor time management. Usability tests are even more of a favour than interviews; they take longer, and they require significantly more effort on the part of the participant. Worst of all, they will always go wrong.
+  <p>&nbsp;</p>When we did our usability tests, our buttons all used pictures instead of words to convey their functions. Each test, without fail, participants were confused about the purposes of the various buttons. We tried changing the icons many times, but the symbols that seemed obvious to us just didn't translate. Not only did we have to plan and schedule these tests, but we also had to make significant changes to our design in between each one, a factor we hadn't considered when planning how much time to give to each test.
+  <p>&nbsp;</p>Things that might seem intuitive to you won't always translate to someone who isn't intimately familiar with the product the way you are as a designer. Always give yourself way more time than you think you'll need for redesigns because I can almost guaruntee that users will be tripped up by even the simplest things. As it turns out, nothing that is designed from scratch is going to be all that simple.
+  <p>&nbsp;</p><h3>4. Computers are evil evil machines intent on ruining your life.</h3>
+  It doesn't bode well for me that I am a prospective computer science major in a computer science course and this is one of my main takeaways, but regardless of my poor life choices, it's just the truth that there will always be technical difficulties at the worst times.
+  <p>&nbsp;</p>More than once, I found myself with a nearly complete assignment that I had been tasked with putting on the website at 11pm the night before it was due, only to realise that the formatting was completely wrong. Even when we thought our assignments were perfect, there were times when it took over an hour to figure out why an image wasn't loading right or a table wasn't appearing. It was frustrating and stressful, and often the result of a careless mistake. Nonetheless, there were a few Wednesdays where I didn't start my Russian homework until after midnight.
+  <p>&nbsp;</p>Internet will go down, laptops will die, and code will break. These are all facts of life, and leaving projects, no matter how simple they may seem, until the last minute will only leave you with a migraine and some mild sleep-deprivation-induced hallucinations. Trust me, I've learned this lesson several times over the course of my academic career.
+  <p>&nbsp;</p><h3>5. Stuff happens.</h3>
+  Keeping with the theme of things unexpectedly going wrong, the mysterious world of technology isn't always to blame. Especially when working in group projects, sometimes stuff just happens. Someone flakes on a responsibility or is late to a meeting or just doesn't submit quality work.
+  <p>&nbsp;</p>There were definitely times over the course of the semester when something just came up. There's no accounting for these things perfectly, but it never hurts to add just a little bit of a buffer when planning to avoid any major problems.
+  <p>&nbsp;</p><p>&nbsp;</p>Whether because planning is hard, people are unreliable, design is unintuitive, technology is the worst, or life is just hard, something will always come up, and projects will always take longer than expected. Everyone wins when a scheduled three hour meeting ends halfway through. Just go for it, and save the headache for something that isn't going to affect people's grades.
+</center>  
